@@ -97,7 +97,7 @@
                                  <children>
                                     <HBox alignment="BOTTOM_LEFT" prefHeight="100.0" prefWidth="200.0">
                                        <children>
-                                          <Button mnemonicParsing="false" onAction="#closeStage" style="-fx-background-color: red;" text="Cerrar" textFill="WHITE">
+                                          <Button mnemonicParsing="false" onAction="#cerrarVentana2" style="-fx-background-color: red;" text="Cerrar" textFill="WHITE">
                                              <effect>
                                                 <Glow level="0.41" />
                                              </effect>
